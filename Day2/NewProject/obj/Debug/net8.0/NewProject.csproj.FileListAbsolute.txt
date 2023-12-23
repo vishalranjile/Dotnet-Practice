@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\bin\Debug\net8.0\NewProject.exe
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\bin\Debug\net8.0\NewProject.deps.json
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\bin\Debug\net8.0\NewProject.runtimeconfig.json
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\bin\Debug\net8.0\NewProject.dll
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\bin\Debug\net8.0\NewProject.pdb
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.dll
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\refint\NewProject.dll
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.pdb
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\NewProject.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dotnet Practice\day2\newproject\obj\Debug\net8.0\ref\NewProject.dll
